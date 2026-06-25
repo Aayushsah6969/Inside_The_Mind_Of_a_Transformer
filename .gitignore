@@ -2,7 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-
+venv
 inside_the_mind_of_a_transformer_revised.pdf
 inside_the_mind_of_a_transformer_revised.md
 Hardware_for_LLM.pdf
